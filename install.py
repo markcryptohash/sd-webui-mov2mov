@@ -1,7 +1,7 @@
 import launch
 
 
-plat = platform.system().lower()
+#plat = platform.system().lower()
 
 
 if not launch.is_installed("cv2"):
